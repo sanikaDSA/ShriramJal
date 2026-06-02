@@ -1,0 +1,6 @@
+{
+  "name": "Shriram Jal",
+  "description": "Premium online booking and real-time delivery system for pure cold and normal drinking water cans.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
